@@ -1,0 +1,4 @@
+MailerHost=no_host
+MailerPort=1234
+MailerUsername=no_username
+MailerPassword=no_password
