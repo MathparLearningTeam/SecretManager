@@ -17,7 +17,7 @@ import java.util.Arrays;
  */
 //TODO Use encrypted files -> implement decryption mechanism
 @Service
-@Profile("prod")
+@Profile("production")
 public class FilesystemPropertiesProvider implements PropertiesProvider{
     protected final String prefix;
     protected final String suffix;
