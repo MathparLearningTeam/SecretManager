@@ -2,4 +2,4 @@ DatabaseUrl=jdbc:mysql://localhost:3306/school
 DatabaseUsername=root
 DatabasePassword=1234
 
-AuthenticationUrl=http://localhost:8090
+AccountUrl=http://localhost:8090
